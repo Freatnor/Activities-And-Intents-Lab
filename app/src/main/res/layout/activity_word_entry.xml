@@ -48,5 +48,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Submit"
+        android:background="@drawable/btn_shap"
         android:id="@+id/submit_button"/>
 </LinearLayout>
